@@ -1,0 +1,4 @@
+flet==0.80.5
+flet-desktop-light==0.80.5
+openai==2.20.0
+
