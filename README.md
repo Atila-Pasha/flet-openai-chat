@@ -20,3 +20,4 @@ A Python application built with **Flet** that allows users to chat with OpenAI m
    write your api key in API_KEY.py
 4. Run:
    python GpT.py
+![APP UI](UI.png)
